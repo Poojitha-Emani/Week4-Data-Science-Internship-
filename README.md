@@ -1,15 +1,15 @@
 # Week4-Data-Science-Internship
-WEEK 4: DATA VISUALIZATION & CAPSTONE PROJECT
+# WEEK 4: DATA VISUALIZATION & CAPSTONE PROJECT
 
 Internship
 
 Skill Nexis – Data Science with Python Internship
 
-Overview
+# Overview
 
 Week 4 focuses on Data Visualization and an End-to-End Analysis Case Study. The work includes dashboard creation, data cleaning, exploratory analysis, data analysis, visualization, and preparation of a final report.
 
-Assignment
+# Assignment
 
 1. Dashboard Creation
 
@@ -19,13 +19,13 @@ Created a dashboard using Power BI to visualize important business metrics using
 
 Prepared a short summary explaining the key insights identified from the dashboard for stakeholder presentation.
 
-Capstone Project: End-to-End Analysis Case Study
+# Capstone Project: End-to-End Analysis Case Study
 
-Project Objective
+# Project Objective
 
 The objective of this project is to perform an end-to-end data analysis workflow, starting from raw data cleaning and exploration and ending with business insights, visualizations, findings, and recommendations.
 
-Tools & Technologies
+# Tools & Technologies
 
 - Python – Data Cleaning & Exploratory Data Analysis
 - Pandas – Data Analysis
@@ -34,7 +34,7 @@ Tools & Technologies
 - Power BI – Interactive Dashboard
 - Matplotlib & Seaborn – Data Visualization
 
-Project Workflow
+# Project Workflow
 
 1. Data Cleaning
 
@@ -109,7 +109,7 @@ The analysis focuses on:
 
 The final analysis summarizes the major findings obtained from the dataset and provides recommendations based on the observed business trends and performance.
 
-Deliverables
+# Deliverables
 
 - Complete Python/SQL code
 - Cleaned dataset
@@ -119,6 +119,6 @@ Deliverables
 - Final PDF Explanation Report
 - GitHub Repository
 
-Conclusion
+# Conclusion
 
 This capstone project demonstrates an end-to-end data analysis workflow, from data cleaning and exploration to analysis, visualization, dashboard creation, and business insights. It provides practical experience in using Python, SQL, Excel, and Power BI for data-driven decision-making.
