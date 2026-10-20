@@ -19,7 +19,27 @@ Created a dashboard using Power BI to visualize important business metrics using
 
 Prepared a short summary explaining the key insights identified from the dashboard for stakeholder presentation.
 
-# Capstone Project: End-to-End Analysis Case Study
+# Week 1 – Excel Data Analysis
+- Data cleaning
+- Data formatting
+- Pivot Tables
+- Basic statistical analysis
+Project Link: https://github.com/Poojitha-Emani/Week-1-Data-Science-Internship.git
+# Week 2 – SQL Data Analysis
+- SQL queries
+- Joins and aggregations
+- Subqueries
+- Data analysis
+Project Link: https://github.com/Poojitha-Emani/Week-2-Data-Science-Internship.git
+# Week 3 – Python Data Analysis
+- Data cleaning using Pandas
+- Handling missing values and duplicates
+- Exploratory Data Analysis (EDA)
+- Data visualization
+Project Link: https://github.com/Poojitha-Emani/Week3-Data-Science-Internship.git
+
+
+#  Week 4 - Capstone Project: End-to-End Analysis Case Study
 
 # Project Objective
 
